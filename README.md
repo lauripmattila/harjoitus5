@@ -8,6 +8,6 @@ Valitsin lopputyön aiheeksi LEMP stackin asennuksen. Tila olettaa, että linux 
 
 ### c) Aja oma Salt-tila suoraa git-varastosta. Voit joko tehdä tilan alusta lähtien itse tai forkata
 
-Loin uuden repositoryn nimeltä harjoitus5. Loin salt tilan joka asentaa sysstatin ja käynnistää tämän. 
+Loin uuden repositoryn nimeltä harjoitus5. Loin salt tilan joka asentaa sysstatin ja käynnistää tämän. Poistin harjoitus5 kansion sekä sysstatin. Kloonasin repon uudelleen githubista ja ajoin salt tilan onnistuneesti ja sysstat toimi asennuksen jälkeen. 
 
 Tehtävänanto: http://terokarvinen.com/2018/aikataulu-%e2%80%93-palvelinten-hallinta-ict4tn022-4-ti-5-ke-5-loppukevat-2018-5p

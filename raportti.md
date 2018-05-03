@@ -1,4 +1,4 @@
-###Palvelinten hallinta h5.
+#Palvelinten hallinta h5.
 
 a) Valitse aihe omaksi kurssityöksi ja varaa se kommenttina aikataulusivun perään.
 Valitsin lopputyön aiheeksi LEMP stackin asennuksen. Tila olettaa, että linux on asennettu valmiiksi ja se toimii. Tila asentaa nginx http-palvelimen, mysql-tietokannan sekä php. 

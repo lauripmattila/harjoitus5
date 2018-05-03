@@ -3,7 +3,7 @@ sysstat:
 
 /etc/default/sysstat:
   file.managed:
-    - source: salt://sysstatconfig
+    - source: salt://sysstat/sysstatconfig
 
 sysstatd:
   service.running:

@@ -1,12 +1,12 @@
 # Palvelinten hallinta H5
 
-## a) Valitse aihe omaksi kurssityöksi ja varaa se kommenttina aikataulusivun perään.
+### a) Valitse aihe omaksi kurssityöksi ja varaa se kommenttina aikataulusivun perään.
 
 Valitsin lopputyön aiheeksi LEMP stackin asennuksen. Tila olettaa, että linux on asennettu valmiiksi ja se toimii. Tila asentaa nginx http-palvelimen, mysql-tietokannan sekä php. Tila myös asentaa virtuaalipalvelimia valmiiksi.
 
-## b) Julkaise raportti MarkDownilla. Jos käytät GitHub:ia, se tekee muotoilun automaattisesti “.md”-päätteisiin dokumentteihin.
+### b) Julkaise raportti MarkDownilla. Jos käytät GitHub:ia, se tekee muotoilun automaattisesti “.md”-päätteisiin dokumentteihin.
 
-## c) Aja oma Salt-tila suoraa git-varastosta. Voit joko tehdä tilan alusta lähtien itse tai forkata
+### c) Aja oma Salt-tila suoraa git-varastosta. Voit joko tehdä tilan alusta lähtien itse tai forkata
 
 Loin uuden repositoryn nimeltä harjoitus5. Loin salt tilan joka asentaa sysstatin ja käynnistää tämän. 
 
